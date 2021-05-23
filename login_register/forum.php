@@ -14,8 +14,8 @@ if($data->checkRoles($_SESSION['username']))
 
 <?php
 if (isset($_SESSION['username'])) { ?>
-<h1>Witaj na forum użytkowniku <?= $_SESSION['username'] ?> </h1></p>
-<a href="https://localhost/project/main_index.php"><button class="buttonf">Powróć na strone główną</button></a>
+<h1>Welcome to Forum <?= $_SESSION['username'] ?> </h1></p>
+<a href="https://localhost/project/main_index.php"><button class="buttonf">Back</button></a>
  <?php
 }   else {
     header("location: https://localhost/project/login_register/login.php ");
@@ -23,26 +23,26 @@ if (isset($_SESSION['username'])) { ?>
 ?>
 </div>
 <div id="clockf">
-<button class="buttonc">Napisz nam swój problem</button></a>
-<button class="buttonc">Skontaktuj się bezpośrednio z supportem</button></a>
+<button class="buttonc">Write your issue</button></a>
+<button class="buttonc">Contact with support</button></a>
 </div>
 <div class="questions">
-    <h1>Tu bedzie twoja wypowiedz</h2>
+    <h1>your stuff here</h2>
 </div>
 <div class="answers">
-    <h1>Tu beda odpowiedzi uzytkownikow</h2>
+    <h1>others stuffs</h2>
 </div>
 <div class="answers">
-    <h1>Tu beda odpowiedzi uzytkownikow</h2>
+    <h1>others stuffs</h2>
 </div>
 <div class="answers">
-    <h1>Tu beda odpowiedzi uzytkownikow</h2>
+    <h1>others stuffs</h2>
 </div>
 <div class="answers">
-    <h1>Tu beda odpowiedzi uzytkownikow</h2>
+    <h1>others stuffs</h2>
 </div>
 <div class="answers">
-    <h1>Tu beda odpowiedzi uzytkownikow</h2>
+    <h1>others stuffs</h2>
 </div>
 
 

@@ -12,10 +12,10 @@
     <p><a href="https://localhost/project/login_register/forum.php">Forum</a></p>
     </div>
     <div class="header-content">
-    <p><a href="">Terminy</a></p>
+    <p><a href="">Terms</a></p>
     </div>
     <div class="header-content">
-    <p><a href="">Konto premium</a></p>
+    <p><a href="">Premium Account</a></p>
     </div>
 <div class="header-content">
 <a href="http://localhost/project/login_register/login.php" class="button">Login</a>
@@ -43,7 +43,7 @@
 <div class="kontakty">   
 <div class="otwarcie">
 <img src="http://localhost/project/images/clock.png"></img>
-<p> godziny otwarcia </p> 
+<p> Opening Hours </p> 
 
 </div>
 <div id="clear">
@@ -51,14 +51,14 @@
 </div>
 <div class="motto">   
 
-<h1>Usługi warsztatu samochodowego</h1>
-<p>Rzetelna i bezpłatna wycena napraw, atrakcyjne akcje promocyjne, przyjazny personel i sympatyczna atmosfera.</p>
+<h1>Car repair shop services</h1>
+<p>Reliable and free repair quote, attractive promotional offers, friendly staff and a nice atmosphere.</p>
 </div>
 <div class="topka2">
     <div class="reviews"></div>
     <div class="reviews">
-        <p>Recenzje użytkowników</p>
-        <h6>Tekst recenzji użytkowników Tekst recenzji użytkowników Tekst recenzji użytkowników Tekst recenzji użytkowników Tekst recenzji użytkowników Tekst recenzji użytkowników</h6>
+        <p>User Reviews</p>
+        <h6>Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden Joe Biden </h6>
     </div>
 
 
@@ -75,7 +75,7 @@
 <div id="clear"></div>
 <div class="services">   
 
-<p>Nasze social media</p>
+<p>Our Social Media</p>
 <div class="services-icons"></div>
 <div class="services-icons"></div>
 <div class="services-icons"></div>
