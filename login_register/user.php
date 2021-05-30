@@ -14,14 +14,14 @@ if($data->checkRoles($_SESSION['username']))
 
 <div class="userh">
 
-<p><a href="">twoje zamówienia</a></p>
+<p><a href="">Your order</a></p>
 <p><input type="text" placeholder="Wyszukaj zamowienia" name="search"></p>
 
 <div class="userh-content">
-<p><a href="">złóż zamówienie</a></p>
+<p><a href="">Place order</a></p>
 </div>
  
- <a href="https://localhost/project/main_index.php"><button class="buttonu">Wyloguj</button></a>
+ <a href="https://localhost/project/main_index.php"><button class="buttonu">Logoff</button></a>
 <?php
 if (isset($_SESSION['username'])) { ?>
 <p><a class="login"><?= $_SESSION['username'] ?> </a></p>
@@ -38,29 +38,29 @@ if (isset($_SESSION['username'])) { ?>
 </div>
 <div class="termins">
     
-    <div class="termins-content">
-        <p>Termin 1 </p>
-        <p>Wymiana kol</p>
-        <p>Status</p>
-        <a href="https://localhost/project/main_index.php"><button class="buttont">Weź zlecenie</button></a>
+<div class="termins-content">
+<p>Term 1 </p>
+<p>Oil replacement</p>
+<p>Status</p>
+<a href="https://localhost/project/main_index.php"><button class="buttont">Take order</button></a>
 </div>
 <div class="termins-content">
-<p>Termin 2 </p>
-<p>Naprawa</p>
+<p>Term 2 </p>
+<p>Repair</p>
 <p>Status</p>
-<a href="https://localhost/project/main_index.php"><button class="buttont">Weź zlecenie</button></a>
+<a href="https://localhost/project/main_index.php"><button class="buttont">Take order</button></a>
 </div>
 <div class="termins-content">
-<p>Termin 3 </p>
-<p>Wymiana oleju</p>
+<p>Term 3 </p>
+<p>Oil Replacement</p>
 <p>Status</p>
-<a href="https://localhost/project/main_index.php"><button class="buttont">Weź zlecenie</button></a>
+<a href="https://localhost/project/main_index.php"><button class="buttont">Take order</button></a>
 </div>
 <div class="termins-content">
-<p>Termin 4 </p>
-<p>Czyszczenie</p>
+<p>Term 4</p>
+<p>Cleaning</p>
 <p>Status</p>
-<a href="https://localhost/project/main_index.php"><button class="buttont">Weź zlecenie</button></a>
+<a href="https://localhost/project/main_index.php"><button class="buttont">Take order</button></a>
 </div>
 </div>
 

@@ -48,7 +48,7 @@ if(isset($_POST['login']))
 <br/>
 <input type="submit" name="login" class="button" value="Register" />
 <h4>
-------------------------------------------- Zarejestruj się za pomocą  ---------------------------------------
+------------------------------------------- Register with  ---------------------------------------
 </h4>
 <br>
 <div class="icons">
@@ -68,7 +68,7 @@ if(isset($_POST['login']))
 
 </div>
 <div class="login">
-<p><a href="https://localhost/project/login_register/login.php">Masz już konto? Zaloguj się<a></p>
+<p><a href="https://localhost/project/login_register/login.php">Have account already ? Log in<a></p>
 </div>
 </div>
 <?php

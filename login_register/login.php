@@ -43,7 +43,7 @@ if(isset($_POST['login']))
 <input type="submit" name="login" class="button" value="Login" />
 </div>
 <h4>
----------------------------------------------- Zaloguj się za pomocą  -----------------------------------------
+---------------------------------------------- Login with  -----------------------------------------
 </h4>
 <br>
 <div class="icons">
@@ -64,11 +64,11 @@ if(isset($_POST['login']))
 </div>
 <div id="clear"></div>
 <div class="register">
-<a href="https://localhost/project/login_register/register.php">Stworz darmowe konto<a>
+<a href="https://localhost/project/login_register/register.php">Create free account<a>
 </div>
 <div class="support">
     <p>
-<a href="https://localhost/project/login_register/forum.php">Nie potrafisz sie zalogowac?<a>
+<a href="https://localhost/project/login_register/forum.php">Can't log in ?<a>
 </p>
 </div>
 
